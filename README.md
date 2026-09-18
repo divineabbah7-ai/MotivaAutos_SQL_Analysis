@@ -184,4 +184,4 @@ group by "Year";
 
 **Divine Abbah** — Data Analyst  
 📧 divineabbah7@gmail.com  
-🌐 [Portfolio](https://divineabbah77.netlify.app) · [LinkedIn](https://linkedin.com/in/divineabbah)
+🌐 [Portfolio](https://divineabbah.lovable.app) · [LinkedIn](https://linkedin.com/in/divineabbah)
